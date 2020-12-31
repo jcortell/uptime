@@ -35,10 +35,10 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://blog.kanteron.com/images/logo.png
   name: Uptime
-  introTitle: "**Uptime** uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages.
+  introTitle: "**Uptime** automatic monitor and status page, powered entirely by GitHub."
+  introMessage: This status page uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
