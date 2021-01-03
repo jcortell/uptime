@@ -76,18 +76,20 @@
     "url": "https://jorge.cortell.net/",
     "icon": "https://favicons.githubusercontent.com/jorge.cortell.net",
     "slug": "jorge-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 586,
     "timeDay": 339,
     "timeWeek": 586,
     "timeMonth": 586,
     "timeYear": 586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-03": 1
+    }
   },
   {
     "name": "Jorge Sitio Web",
@@ -130,18 +132,20 @@
     "url": "https://bloges.cortell.net/",
     "icon": "https://favicons.githubusercontent.com/bloges.cortell.net",
     "slug": "blog-de-jorge",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 302,
     "timeDay": 215,
     "timeWeek": 302,
     "timeMonth": 302,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-03": 1
+    }
   },
   {
     "name": "Hugo Website",
@@ -166,9 +170,9 @@
     "url": "https://www.dolcevitaseas.com/",
     "icon": "https://favicons.githubusercontent.com/www.dolcevitaseas.com",
     "slug": "dolce-vita-seas-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,7 +181,9 @@
     "timeWeek": 435,
     "timeMonth": 435,
     "timeYear": 435,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-03": 0
+    }
   },
   {
     "name": "CruiseCurator Website (redirects to Virtuoso)",
