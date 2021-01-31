@@ -190,9 +190,9 @@
     "url": "https://www.virtuoso.com/advisor/stepseri33810/advisors/16133810/stephanie-serino",
     "icon": "https://favicons.githubusercontent.com/www.virtuoso.com",
     "slug": "cruise-curator-website-redirects-to-virtuoso",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -201,6 +201,8 @@
     "timeWeek": 925,
     "timeMonth": 762,
     "timeYear": 762,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-31": 0
+    }
   }
 ]
