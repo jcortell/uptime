@@ -152,9 +152,9 @@
     "url": "https://hugo.cortell.net/",
     "icon": "https://favicons.githubusercontent.com/hugo.cortell.net",
     "slug": "hugo-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -163,7 +163,9 @@
     "timeWeek": 363,
     "timeMonth": 321,
     "timeYear": 305,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-13": 0
+    }
   },
   {
     "name": "DolceVita Seas Website",
