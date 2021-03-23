@@ -96,7 +96,7 @@
     "url": "https://web.cortell.net/",
     "icon": "https://favicons.githubusercontent.com/web.cortell.net",
     "slug": "jorge-sitio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -105,7 +105,7 @@
     "time": 481,
     "timeDay": 214,
     "timeWeek": 439,
-    "timeMonth": 469,
+    "timeMonth": 417,
     "timeYear": 481,
     "dailyMinutesDown": {}
   },
