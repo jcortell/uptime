@@ -170,17 +170,17 @@
     "url": "https://www.dolcevitaseas.com/",
     "icon": "https://favicons.githubusercontent.com/www.dolcevitaseas.com",
     "slug": "dolce-vita-seas-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 632,
-    "timeDay": 867,
-    "timeWeek": 621,
-    "timeMonth": 600,
-    "timeYear": 632,
+    "time": 630,
+    "timeDay": 660,
+    "timeWeek": 600,
+    "timeMonth": 595,
+    "timeYear": 630,
     "dailyMinutesDown": {
       "2021-01-03": 20
     }
