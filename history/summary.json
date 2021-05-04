@@ -114,9 +114,9 @@
     "url": "https://blog.cortell.net/",
     "icon": "https://favicons.githubusercontent.com/blog.cortell.net",
     "slug": "jorge-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,7 +125,9 @@
     "timeWeek": 308,
     "timeMonth": 338,
     "timeYear": 552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-04": 0
+    }
   },
   {
     "name": "Blog de Jorge",
