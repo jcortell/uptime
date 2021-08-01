@@ -4,18 +4,20 @@
     "url": "https://www.kanteron.com/",
     "icon": "https://favicons.githubusercontent.com/www.kanteron.com",
     "slug": "kanteron-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 277,
-    "timeWeek": 391,
-    "timeMonth": 432,
-    "timeYear": 636,
-    "dailyMinutesDown": {}
+    "time": 646,
+    "timeDay": 1582,
+    "timeWeek": 703,
+    "timeMonth": 508,
+    "timeYear": 646,
+    "dailyMinutesDown": {
+      "2021-08-01": 0
+    }
   },
   {
     "name": "Kanteron Sitio Web",
