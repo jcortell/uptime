@@ -101,10 +101,10 @@
     "url": "https://web.cortell.net/",
     "icon": "https://favicons.githubusercontent.com/web.cortell.net",
     "slug": "jorge-sitio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 523,
@@ -112,7 +112,9 @@
     "timeWeek": 564,
     "timeMonth": 432,
     "timeYear": 523,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-19": 1
+    }
   },
   {
     "name": "Jorge Blog",
@@ -139,9 +141,9 @@
     "url": "https://bloges.cortell.net/",
     "icon": "https://favicons.githubusercontent.com/bloges.cortell.net",
     "slug": "blog-de-jorge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -151,6 +153,7 @@
     "timeMonth": 425,
     "timeYear": 557,
     "dailyMinutesDown": {
+      "2021-08-19": 0,
       "2021-07-13": 30,
       "2021-01-03": 21
     }
