@@ -184,9 +184,9 @@
     "slug": "dolce-vita-seas-website",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 511,
     "timeDay": 300,
@@ -194,7 +194,6 @@
     "timeMonth": 323,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2021-10-10": 13,
       "2021-08-28": 18,
       "2021-07-13": 29,
       "2021-01-03": 20
