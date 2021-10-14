@@ -1,6 +1,7 @@
 # Change these first
 owner: jcortell # Your GitHub username
 repo: uptime # Your GitHub repository name
+user-agent: jcortell
 
 # Add your sites here
 sites:
@@ -39,11 +40,11 @@ status-website:
   name: Uptime
   introTitle: "**Uptime** automatic monitor and status page, powered entirely by GitHub."
   introMessage: This status page uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages.
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/jcortell/uptime
+#  navbar:
+#    - title: Status
+#      href: /
+#    - title: GitHub
+#      href: https://github.com/jcortell/uptime
 
 # Previous line used to say       href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
