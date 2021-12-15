@@ -4,11 +4,11 @@
     "url": "https://www.kanteron.com/",
     "icon": "https://favicons.githubusercontent.com/www.kanteron.com",
     "slug": "kanteron-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 531,
     "timeDay": 87,
@@ -16,6 +16,7 @@
     "timeMonth": 376,
     "timeYear": 531,
     "dailyMinutesDown": {
+      "2021-12-15": 2,
       "2021-09-14": 23,
       "2021-08-01": 36
     }
@@ -25,10 +26,10 @@
     "url": "https://web.kanteron.com/",
     "icon": "https://favicons.githubusercontent.com/web.kanteron.com",
     "slug": "kanteron-sitio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 625,
@@ -37,6 +38,7 @@
     "timeMonth": 468,
     "timeYear": 625,
     "dailyMinutesDown": {
+      "2021-12-15": 2,
       "2021-11-16": 22,
       "2021-09-14": 23,
       "2021-07-13": 31
@@ -47,10 +49,10 @@
     "url": "https://blog.kanteron.com/",
     "icon": "https://favicons.githubusercontent.com/blog.kanteron.com",
     "slug": "kanteron-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 247,
@@ -58,7 +60,9 @@
     "timeWeek": 197,
     "timeMonth": 172,
     "timeYear": 247,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 1
+    }
   },
   {
     "name": "Blog de Kanteron",
@@ -83,10 +87,10 @@
     "url": "https://jorge.cortell.net/",
     "icon": "https://favicons.githubusercontent.com/jorge.cortell.net",
     "slug": "jorge-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 453,
@@ -95,6 +99,7 @@
     "timeMonth": 342,
     "timeYear": 453,
     "dailyMinutesDown": {
+      "2021-12-15": 1,
       "2021-11-16": 22,
       "2021-07-13": 31,
       "2021-01-03": 21
@@ -168,10 +173,10 @@
     "url": "https://hugo.cortell.net/",
     "icon": "https://favicons.githubusercontent.com/hugo.cortell.net",
     "slug": "hugo-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 361,
@@ -180,6 +185,7 @@
     "timeMonth": 309,
     "timeYear": 361,
     "dailyMinutesDown": {
+      "2021-12-15": 1,
       "2021-11-16": 22,
       "2021-07-13": 30
     }
@@ -189,9 +195,9 @@
     "url": "https://www.dolcevitaseas.com/",
     "icon": "https://favicons.githubusercontent.com/www.dolcevitaseas.com",
     "slug": "dolce-vita-seas-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -201,6 +207,7 @@
     "timeMonth": 292,
     "timeYear": 474,
     "dailyMinutesDown": {
+      "2021-12-15": 0,
       "2021-11-16": 22,
       "2021-08-28": 18,
       "2021-07-13": 29,
