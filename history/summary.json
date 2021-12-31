@@ -14,7 +14,7 @@
     "timeDay": 336,
     "timeWeek": 320,
     "timeMonth": 367,
-    "timeYear": 520,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2021-12-15": 33,
       "2021-09-14": 23,
@@ -26,9 +26,9 @@
     "url": "https://web.kanteron.com/",
     "icon": "https://favicons.githubusercontent.com/web.kanteron.com",
     "slug": "kanteron-sitio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
@@ -36,8 +36,9 @@
     "timeDay": 285,
     "timeWeek": 287,
     "timeMonth": 426,
-    "timeYear": 611,
+    "timeYear": 609,
     "dailyMinutesDown": {
+      "2021-12-31": 0,
       "2021-12-15": 33,
       "2021-11-16": 22,
       "2021-09-14": 23,
@@ -97,7 +98,7 @@
     "timeDay": 1661,
     "timeWeek": 525,
     "timeMonth": 359,
-    "timeYear": 449,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2021-12-15": 32,
       "2021-11-16": 22,
@@ -120,7 +121,7 @@
     "timeDay": 369,
     "timeWeek": 292,
     "timeMonth": 362,
-    "timeYear": 449,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2021-11-16": 22
     }
@@ -140,7 +141,7 @@
     "timeDay": 196,
     "timeWeek": 211,
     "timeMonth": 208,
-    "timeYear": 359,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2021-11-16": 22,
       "2021-05-04": 16
@@ -161,7 +162,7 @@
     "timeDay": 229,
     "timeWeek": 204,
     "timeMonth": 201,
-    "timeYear": 430,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2021-11-16": 22,
       "2021-07-13": 30,
@@ -205,7 +206,7 @@
     "timeDay": 262,
     "timeWeek": 325,
     "timeMonth": 297,
-    "timeYear": 467,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2021-12-15": 31,
       "2021-11-16": 22,
@@ -229,7 +230,7 @@
     "timeDay": 294,
     "timeWeek": 615,
     "timeMonth": 560,
-    "timeYear": 687,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2021-12-09": 16,
       "2021-11-24": 31,
